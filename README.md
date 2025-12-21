@@ -76,7 +76,7 @@ Once the brain identifies the Regime (e.g., "Regime 8: Total Crisis"), it ignore
 
 ---
 
-## 🧬 3. How It Learns (Genetic Algorithm)
+##  3. How It Learns (Genetic Algorithm)
 
 The system does not know the "correct" weights beforehand. It learns them through trial and error, mimicking natural selection.
 
@@ -111,7 +111,7 @@ As the code runs, it saves its discoveries:
 
 ---
 
-## 🚀 5. Quick Start Guide
+##  5. Quick Start Guide
 
 1. **Install Julia:** Download from [julialang.org](https://julialang.org).
 2. **Install Packages:**
